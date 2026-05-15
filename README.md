@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Th%C3%A1i+Anh+L%E1%BA%A1c+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+T%E1%BA%A5n+L%C3%AAn+%F0%9F%91%8B;Xin+ch%C3%A0o+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+trang+c%E1%BB%A7a+m%C3%ACnh!" alt="Typing SVG" />
 </div>
 
-### 👩🏻‍💻 Data Science & AI student at University of Transport Ho Chi Minh City, Viet Nam
+### Data Science & AI student at University of Transport Ho Chi Minh City, Viet Nam
 
-### 📖 Sharing my tech journey, learnings and source code
+###  I've just started learning to code, so I'd like to learn from you guys about how to learn to code.
 
 ---
 
@@ -12,7 +12,7 @@
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,go,js,ts" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,go" alt="Languages" />
 </p>
 
 **Data Science & AI**
@@ -22,7 +22,7 @@
 
 **Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo" alt="Databases & Backend" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases & Backend" />
 </p>
 
 **Tools & Cloud**
