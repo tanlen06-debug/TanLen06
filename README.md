@@ -8,7 +8,7 @@
 
 ---
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 **Languages**
 <p align="left">
@@ -31,7 +31,7 @@
 </p>
 
 ---
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=lacthui06&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
